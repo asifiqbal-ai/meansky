@@ -2,8 +2,8 @@
 
 module.exports = {
 	app: {
-		title: 'meansky',
-		description: 'SkyorNot  Mean.JS style ',
+		title: 'meanSKY',
+		description: 'MEAN.JS SkyOrNot Implementation',
 		keywords: 'MongoDB, Express, AngularJS, Node.js'
 	},
 	port: process.env.PORT || 3000,

@@ -1,6 +1,6 @@
 {
 	"name": "meansky",
-	"description": "SkyorNot  Mean.JS style ",
+	"description": "MEAN.JS SkyOrNot Implementation",
 	"version": "0.0.1",
 	"author": "Josh Lipps",
 	"engines": {

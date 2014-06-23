@@ -4,7 +4,7 @@ module.exports = {
 	db: 'mongodb://localhost/meansky-test',
 	port: 3001,
 	app: {
-		title: 'meansky - Test Environment'
+		title: 'meanSKY - Test Environment'
 	},
 	facebook: {
 		clientID: process.env.FACEBOOK_ID || 'APP_ID',
